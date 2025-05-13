@@ -5,6 +5,6 @@ window._config = {
     region: 'us-east-1' // ← bulunduğun AWS bölgesi
   },
   api: {
-    invokeUrl: '' // ← API Gateway URL'in varsa buraya yazılacak
+    invokeUrl: 'https://ndu1515e83.execute-api.us-east-1.amazonaws.com/dev' // ← API Gateway URL'in varsa buraya yazılacak
   }
 };
