@@ -2,8 +2,8 @@ js
 const config = {
   ...
   Auth: {
-    userPoolId: 'us-east-1_ic72ouKvh', // ← User Pool ID
-    userPoolWebClientId: '45ntu5j78a1fvs6dvd7iibd8v', // ← App Client ID
+    userPoolId: 'us-east-1_WA8133eWT', // ← User Pool ID
+    userPoolWebClientId: '632ckejl9odjmt24p7s9ccpdl9', // ← App Client ID
     region: 'us-east-1', // ← kendi Region bilginiziyaz
   }
 };
